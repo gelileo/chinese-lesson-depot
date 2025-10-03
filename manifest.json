@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-03T20:56:07.691Z",
+  "lastUpdated": "2025-10-03T21:03:35.677Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -13,9 +13,30 @@
       "name": "Level 1 (Beginner)",
       "description": "Basic characters and simple phrases",
       "difficulty": "beginner",
-      "totalLessons": 0,
-      "estimatedTime": 0,
-      "lessons": []
+      "totalLessons": 1,
+      "estimatedTime": 15,
+      "lessons": [
+        {
+          "id": "lesson2",
+          "title": "第二课 夏、商、西周",
+          "description": "夏、商、西周",
+          "source": {
+            "type": "remote",
+            "path": "lessons/level1/lesson2.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "level1",
+            "tags": [
+              "历史"
+            ],
+            "characterCount": 206,
+            "estimatedTime": 15,
+            "createdAt": "2025-10-03T21:03:34.841Z",
+            "updatedAt": "2025-10-03T21:03:35.678Z"
+          }
+        }
+      ]
     },
     {
       "id": "level2",
