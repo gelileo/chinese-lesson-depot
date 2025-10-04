@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-03T23:09:09.332Z",
+  "lastUpdated": "2025-10-04T01:55:04.096Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 1,
-      "estimatedTime": 30,
+      "totalLessons": 2,
+      "estimatedTime": 60,
       "lessons": [
         {
           "id": "lesson2",
@@ -97,6 +97,27 @@
             "estimatedTime": 30,
             "createdAt": "2025-10-03T23:09:08.385Z",
             "updatedAt": "2025-10-03T23:09:09.332Z"
+          }
+        },
+        {
+          "id": "lesson2-reading",
+          "title": "第二课 阅读· 甲骨文",
+          "description": "Jiaguwn is an ancient language inscribed on tortoise shells or animal bones, and the common language during the Shang Dynasty about 3000 years ago ...",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/lesson2-reading.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "历史，新双双",
+              "第二课"
+            ],
+            "characterCount": 586,
+            "estimatedTime": 30,
+            "createdAt": "2025-10-04T01:55:03.189Z",
+            "updatedAt": "2025-10-04T01:55:04.096Z"
           }
         }
       ]
