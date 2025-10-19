@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-19T22:42:42.719Z",
+  "lastUpdated": "2025-10-19T22:43:43.415Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,10 +76,10 @@
               "历史，新双双",
               "第三课，春秋，战国，商鞅变法，诸子百家，百家争鸣"
             ],
-            "characterCount": 687,
+            "characterCount": 679,
             "estimatedTime": 15,
-            "createdAt": "2025-10-19T22:42:41.729Z",
-            "updatedAt": "2025-10-19T22:42:42.719Z"
+            "createdAt": "2025-10-19T22:43:42.466Z",
+            "updatedAt": "2025-10-19T22:43:43.415Z"
           }
         }
       ]
