@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-04T01:55:04.096Z",
+  "lastUpdated": "2025-10-19T22:39:42.285Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -58,9 +58,31 @@
       "name": "Level 6 (Advanced)",
       "description": "Complex texts and cultural topics",
       "difficulty": "advanced",
-      "totalLessons": 0,
-      "estimatedTime": 0,
-      "lessons": []
+      "totalLessons": 1,
+      "estimatedTime": 15,
+      "lessons": [
+        {
+          "id": "Lesson3",
+          "title": "第三课 春秋与战国",
+          "description": "春秋，战国，诸子百家，百家争鸣，商鞅变法",
+          "source": {
+            "type": "remote",
+            "path": "lessons/level6/Lesson3.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "level6",
+            "tags": [
+              "历史，新双双",
+              "第三课，春秋，战国，商鞅变法，诸子百家，百家争鸣"
+            ],
+            "characterCount": 687,
+            "estimatedTime": 15,
+            "createdAt": "2025-10-19T22:39:41.326Z",
+            "updatedAt": "2025-10-19T22:39:42.285Z"
+          }
+        }
+      ]
     },
     {
       "id": "level7",
