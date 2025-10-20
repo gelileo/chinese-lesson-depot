@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-19T23:39:30.161Z",
+  "lastUpdated": "2025-10-20T00:02:37.312Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -98,8 +98,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 3,
-      "estimatedTime": 75,
+      "totalLessons": 4,
+      "estimatedTime": 90,
       "lessons": [
         {
           "id": "lesson2",
@@ -162,6 +162,27 @@
             "estimatedTime": 15,
             "createdAt": "2025-10-19T23:39:29.299Z",
             "updatedAt": "2025-10-19T23:39:30.161Z"
+          }
+        },
+        {
+          "id": "Lesson3-reading",
+          "title": "第三课 阅读 商鞅的故事",
+          "description": "春秋，战国，商鞅变法",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/Lesson3-reading.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "历史，新双双",
+              "第三课，春秋，战国，商鞅变法"
+            ],
+            "characterCount": 572,
+            "estimatedTime": 15,
+            "createdAt": "2025-10-20T00:02:36.323Z",
+            "updatedAt": "2025-10-20T00:02:37.312Z"
           }
         }
       ]
