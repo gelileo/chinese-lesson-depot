@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-20T00:11:34.074Z",
+  "lastUpdated": "2025-10-26T03:06:27.098Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 4,
-      "estimatedTime": 90,
+      "totalLessons": 5,
+      "estimatedTime": 105,
       "lessons": [
         {
           "id": "lesson2",
@@ -161,6 +161,26 @@
             "estimatedTime": 15,
             "createdAt": "2025-10-20T00:11:33.234Z",
             "updatedAt": "2025-10-20T00:11:34.074Z"
+          }
+        },
+        {
+          "id": "Lesson4-text",
+          "title": "第四课 秦",
+          "description": "秦，始皇帝，长城，灵渠，统一中国",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/Lesson4-text.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "秦，始皇帝，长城，灵渠，统一中国"
+            ],
+            "characterCount": 597,
+            "estimatedTime": 15,
+            "createdAt": "2025-10-26T03:06:26.125Z",
+            "updatedAt": "2025-10-26T03:06:27.098Z"
           }
         }
       ]
