@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-26T03:06:27.098Z",
+  "lastUpdated": "2025-10-26T03:14:02.445Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -177,10 +177,10 @@
             "tags": [
               "秦，始皇帝，长城，灵渠，统一中国"
             ],
-            "characterCount": 597,
+            "characterCount": 596,
             "estimatedTime": 15,
-            "createdAt": "2025-10-26T03:06:26.125Z",
-            "updatedAt": "2025-10-26T03:06:27.098Z"
+            "createdAt": "2025-10-26T03:14:01.443Z",
+            "updatedAt": "2025-10-26T03:14:02.445Z"
           }
         }
       ]
