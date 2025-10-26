@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-26T03:14:02.445Z",
+  "lastUpdated": "2025-10-26T03:43:06.018Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 5,
-      "estimatedTime": 105,
+      "totalLessons": 6,
+      "estimatedTime": 120,
       "lessons": [
         {
           "id": "lesson2",
@@ -181,6 +181,27 @@
             "estimatedTime": 15,
             "createdAt": "2025-10-26T03:14:01.443Z",
             "updatedAt": "2025-10-26T03:14:02.445Z"
+          }
+        },
+        {
+          "id": "Lesson4-reading",
+          "title": "第四课 阅读 长城， 阿房宫，灵渠，焚书坑儒",
+          "description": "长城， 阿房宫，灵渠，焚书坑儒",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/Lesson4-reading.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "长城",
+              "阿房宫，灵渠，焚书坑儒"
+            ],
+            "characterCount": 666,
+            "estimatedTime": 15,
+            "createdAt": "2025-10-26T03:43:04.996Z",
+            "updatedAt": "2025-10-26T03:43:06.018Z"
           }
         }
       ]
