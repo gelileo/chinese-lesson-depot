@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-08T02:35:35.957Z",
+  "lastUpdated": "2025-11-08T03:24:49.373Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 8,
-      "estimatedTime": 150,
+      "totalLessons": 9,
+      "estimatedTime": 165,
       "lessons": [
         {
           "id": "lesson2",
@@ -242,6 +242,26 @@
             "estimatedTime": 15,
             "createdAt": "2025-11-08T02:35:35.045Z",
             "updatedAt": "2025-11-08T02:35:35.957Z"
+          }
+        },
+        {
+          "id": "Lesson6",
+          "title": "第六课 东汉",
+          "description": "东汉， 刘秀，蔡伦造纸，浑天仪，张衡，华佗",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/Lesson6.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "东汉， 刘秀，蔡伦造纸，浑天仪，张衡，华佗"
+            ],
+            "characterCount": 575,
+            "estimatedTime": 15,
+            "createdAt": "2025-11-08T03:24:48.326Z",
+            "updatedAt": "2025-11-08T03:24:49.373Z"
           }
         }
       ]
