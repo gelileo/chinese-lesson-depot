@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-08T03:27:37.864Z",
+  "lastUpdated": "2025-11-08T03:36:49.592Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 9,
-      "estimatedTime": 165,
+      "totalLessons": 10,
+      "estimatedTime": 180,
       "lessons": [
         {
           "id": "lesson2",
@@ -262,6 +262,26 @@
             "estimatedTime": 15,
             "createdAt": "2025-11-08T03:27:36.973Z",
             "updatedAt": "2025-11-08T03:27:37.864Z"
+          }
+        },
+        {
+          "id": "Lesson6-reading",
+          "title": "第六课 阅读 外科神医华佗",
+          "description": "东汉， 华佗，麻沸散，关羽，刮骨疗伤",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/Lesson6-reading.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "东汉， 华佗，麻沸散，关羽，刮骨疗伤"
+            ],
+            "characterCount": 557,
+            "estimatedTime": 15,
+            "createdAt": "2025-11-08T03:36:48.600Z",
+            "updatedAt": "2025-11-08T03:36:49.592Z"
           }
         }
       ]
