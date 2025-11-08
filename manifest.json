@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-10-26T03:44:46.277Z",
+  "lastUpdated": "2025-11-08T02:21:42.726Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 6,
-      "estimatedTime": 120,
+      "totalLessons": 7,
+      "estimatedTime": 135,
       "lessons": [
         {
           "id": "lesson2",
@@ -202,6 +202,26 @@
             "estimatedTime": 15,
             "createdAt": "2025-10-26T03:44:45.294Z",
             "updatedAt": "2025-10-26T03:44:46.277Z"
+          }
+        },
+        {
+          "id": "Lesson5",
+          "title": "第五课 西汉",
+          "description": "西汉，刘邦，司马迁，史记，张骞，汉武帝，",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/Lesson5.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "历史，新双双，西汉"
+            ],
+            "characterCount": 701,
+            "estimatedTime": 15,
+            "createdAt": "2025-11-08T02:21:41.436Z",
+            "updatedAt": "2025-11-08T02:21:42.726Z"
           }
         }
       ]
