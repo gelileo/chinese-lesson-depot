@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-08T02:21:42.726Z",
+  "lastUpdated": "2025-11-08T02:35:35.957Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 7,
-      "estimatedTime": 135,
+      "totalLessons": 8,
+      "estimatedTime": 150,
       "lessons": [
         {
           "id": "lesson2",
@@ -222,6 +222,26 @@
             "estimatedTime": 15,
             "createdAt": "2025-11-08T02:21:41.436Z",
             "updatedAt": "2025-11-08T02:21:42.726Z"
+          }
+        },
+        {
+          "id": "Lesson5-reading",
+          "title": "第五课阅读 张骞通西域",
+          "description": "张骞，汉武帝，丝绸之路",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/Lesson5-reading.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "历史，新双双，西汉"
+            ],
+            "characterCount": 497,
+            "estimatedTime": 15,
+            "createdAt": "2025-11-08T02:35:35.045Z",
+            "updatedAt": "2025-11-08T02:35:35.957Z"
           }
         }
       ]
