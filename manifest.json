@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-08T03:36:49.592Z",
+  "lastUpdated": "2025-12-06T02:43:47.580Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 10,
-      "estimatedTime": 180,
+      "totalLessons": 11,
+      "estimatedTime": 195,
       "lessons": [
         {
           "id": "lesson2",
@@ -282,6 +282,26 @@
             "estimatedTime": 15,
             "createdAt": "2025-11-08T03:36:48.600Z",
             "updatedAt": "2025-11-08T03:36:49.592Z"
+          }
+        },
+        {
+          "id": "History-Lesson-7",
+          "title": "第七课 三国鼎立",
+          "description": "曹操，三国，孙权，刘备，魏，蜀，吴",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/History-Lesson-7.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "曹操，三国，孙权，刘备，魏，蜀，吴"
+            ],
+            "characterCount": 644,
+            "estimatedTime": 15,
+            "createdAt": "2025-12-06T02:43:46.504Z",
+            "updatedAt": "2025-12-06T02:43:47.580Z"
           }
         }
       ]
