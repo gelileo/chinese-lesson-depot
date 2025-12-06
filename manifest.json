@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-12-06T02:43:47.580Z",
+  "lastUpdated": "2025-12-06T03:03:23.861Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 11,
-      "estimatedTime": 195,
+      "totalLessons": 12,
+      "estimatedTime": 210,
       "lessons": [
         {
           "id": "lesson2",
@@ -302,6 +302,26 @@
             "estimatedTime": 15,
             "createdAt": "2025-12-06T02:43:46.504Z",
             "updatedAt": "2025-12-06T02:43:47.580Z"
+          }
+        },
+        {
+          "id": "History-Lesson-7-reading",
+          "title": "第七课 阅读 火烧赤壁",
+          "description": "曹操，三国，孙权，刘备，魏，蜀，吴，赤壁，黄盖，诸葛亮",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/History-Lesson-7-reading.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "赤壁，黄盖，诸葛亮，曹操，三国，孙权，刘备，魏，蜀，吴，周瑜"
+            ],
+            "characterCount": 514,
+            "estimatedTime": 15,
+            "createdAt": "2025-12-06T03:03:22.944Z",
+            "updatedAt": "2025-12-06T03:03:23.861Z"
           }
         }
       ]
