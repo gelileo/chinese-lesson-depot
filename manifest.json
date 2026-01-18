@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-18T20:31:42.035Z",
+  "lastUpdated": "2026-01-18T20:42:59.139Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 13,
-      "estimatedTime": 225,
+      "totalLessons": 14,
+      "estimatedTime": 240,
       "lessons": [
         {
           "id": "lesson2",
@@ -342,6 +342,26 @@
             "estimatedTime": 15,
             "createdAt": "2026-01-18T20:31:41.225Z",
             "updatedAt": "2026-01-18T20:31:42.035Z"
+          }
+        },
+        {
+          "id": "History-Lesson-8-Reading",
+          "title": "第八课 阅读 云冈石窟 木兰从军",
+          "description": "云冈石窟，北魏\n木兰从军，木兰辞，花木兰",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/History-Lesson-8-Reading.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "云冈石窟，北魏；木兰从军，木兰辞，花木兰"
+            ],
+            "characterCount": 542,
+            "estimatedTime": 15,
+            "createdAt": "2026-01-18T20:42:58.185Z",
+            "updatedAt": "2026-01-18T20:42:59.139Z"
           }
         }
       ]
