@@ -14,44 +14,64 @@
     "book": null,
     "vocabulary": [
       {
-        "word": "屯兵",
-        "definition": "tun2bing1; station troops"
+        "word": "汝南王",
+        "definition": "ru3nan2wang1-Runan King"
       },
       {
-        "word": "水土不服",
-        "definition": "shui3tu3bu4fu2; be unaccustomed to the climate of a new place"
+        "word": "奢侈",
+        "definition": "she1chi4； luxury"
       },
       {
-        "word": "晕船",
-        "definition": "yun1chuan2;become seasick"
+        "word": "伙食费",
+        "definition": "huo3shi2fei4; money spent on meals, food expense"
       },
       {
-        "word": "铁链",
-        "definition": "tie2lian4;iron chain"
+        "word": "彼此",
+        "definition": "bi3ci3; each other"
       },
       {
-        "word": "铺",
-        "definition": "pu1, lay"
+        "word": "蜡",
+        "definition": "la4, wax"
       },
       {
-        "word": "日期",
-        "definition": "ri4qi1;date"
+        "word": "迁移",
+        "definition": "qian1yi2, move"
       },
       {
-        "word": "暗号",
-        "definition": "an4hao4; secret signal"
+        "word": "瓦解",
+        "definition": "wa3jie3; disintegrate, break down"
       },
       {
-        "word": "驶",
-        "definition": "shi3;drive, sail"
+        "word": "陷入",
+        "definition": "xian4ru4; fall into"
       },
       {
-        "word": "残兵败将",
-        "definition": "can2bing1bai4jiang; remnants of a defeated army"
+        "word": "刘裕",
+        "definition": "liu2yu4; name"
+      },
+      {
+        "word": "鲜卑",
+        "definition": "xian3bei1; nationality"
+      },
+      {
+        "word": "融合",
+        "definition": "rong2he2; merge"
+      },
+      {
+        "word": "批驳",
+        "definition": "pi1bo2; refute"
+      },
+      {
+        "word": "绘画",
+        "definition": "hui4hua4;painting"
+      },
+      {
+        "word": "圆周率",
+        "definition": "yuan2zhou1lv; pi"
       }
     ],
     "estimatedTime": 15,
-    "createdAt": "2026-01-18T20:18:51.536Z",
-    "updatedAt": "2026-01-18T20:18:51.537Z"
+    "createdAt": "2026-01-18T20:30:02.557Z",
+    "updatedAt": "2026-01-18T20:30:02.558Z"
   }
 }
