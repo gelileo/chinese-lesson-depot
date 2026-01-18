@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-18T20:49:41.351Z",
+  "lastUpdated": "2026-01-18T21:03:52.332Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 14,
-      "estimatedTime": 240,
+      "totalLessons": 15,
+      "estimatedTime": 255,
       "lessons": [
         {
           "id": "lesson2",
@@ -362,6 +362,26 @@
             "estimatedTime": 15,
             "createdAt": "2026-01-18T20:49:40.503Z",
             "updatedAt": "2026-01-18T20:49:41.351Z"
+          }
+        },
+        {
+          "id": "History-Lesson-9-Text",
+          "title": "第九课 隋",
+          "description": "隋，大运河，",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/History-Lesson-9-Text.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "隋，大运河，"
+            ],
+            "characterCount": 556,
+            "estimatedTime": 15,
+            "createdAt": "2026-01-18T21:03:51.550Z",
+            "updatedAt": "2026-01-18T21:03:52.332Z"
           }
         }
       ]
