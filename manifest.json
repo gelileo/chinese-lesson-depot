@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-18T20:30:03.357Z",
+  "lastUpdated": "2026-01-18T20:31:42.035Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -340,8 +340,8 @@
             ],
             "characterCount": 773,
             "estimatedTime": 15,
-            "createdAt": "2026-01-18T20:30:02.557Z",
-            "updatedAt": "2026-01-18T20:30:03.357Z"
+            "createdAt": "2026-01-18T20:31:41.225Z",
+            "updatedAt": "2026-01-18T20:31:42.035Z"
           }
         }
       ]
