@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-19T23:14:53.652Z",
+  "lastUpdated": "2026-01-19T23:42:27.838Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 16,
-      "estimatedTime": 270,
+      "totalLessons": 17,
+      "estimatedTime": 285,
       "lessons": [
         {
           "id": "lesson2",
@@ -402,6 +402,26 @@
             "estimatedTime": 15,
             "createdAt": "2026-01-18T21:19:56.890Z",
             "updatedAt": "2026-01-18T21:19:57.783Z"
+          }
+        },
+        {
+          "id": "History-Lesson-10-Text",
+          "title": "第十课 唐（上）",
+          "description": "唐，长安，李渊，李世民，贞观之治，唐三彩",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/History-Lesson-10-Text.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "唐，长安，李渊，李世民，贞观之治，唐三彩"
+            ],
+            "characterCount": 830,
+            "estimatedTime": 15,
+            "createdAt": "2026-01-19T23:42:26.839Z",
+            "updatedAt": "2026-01-19T23:42:27.838Z"
           }
         }
       ]
