@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-01-20T00:02:49.059Z",
+  "lastUpdated": "2026-02-20T01:02:35.136Z",
   "source": {
     "name": "LSCS Chinese Lesson Depot",
     "description": "Chinese lessons from Little Star Chinese School, organized by proficiency levels",
@@ -76,8 +76,8 @@
       "name": "Advanced (Expert)",
       "description": "Expert-level content and specialized topics",
       "difficulty": "advanced",
-      "totalLessons": 18,
-      "estimatedTime": 300,
+      "totalLessons": 19,
+      "estimatedTime": 315,
       "lessons": [
         {
           "id": "lesson2",
@@ -442,6 +442,26 @@
             "estimatedTime": 15,
             "createdAt": "2026-01-20T00:02:48.157Z",
             "updatedAt": "2026-01-20T00:02:49.059Z"
+          }
+        },
+        {
+          "id": "History-Lesson-11",
+          "title": "第十一课 唐（下）",
+          "description": "唐， 安史之乱，唐玄宗，杨贵妃，安禄山，史思明，黄巢起义，大雁塔，唐诗，吴道子",
+          "source": {
+            "type": "remote",
+            "path": "lessons/advanced/History-Lesson-11.json"
+          },
+          "metadata": {
+            "difficulty": "advanced",
+            "lscsLevel": "advanced",
+            "tags": [
+              "唐， 安史之乱，唐玄宗，杨贵妃，安禄山，"
+            ],
+            "characterCount": 1174,
+            "estimatedTime": 15,
+            "createdAt": "2026-02-20T01:02:33.825Z",
+            "updatedAt": "2026-02-20T01:02:35.136Z"
           }
         }
       ]
